@@ -1,0 +1,18 @@
+ui_print("Samsung Galaxy S 4G Debloater");
+ui_print("");
+ui_print("Brought to you by Team Acid");
+ui_print("Created by Fernando Barillas (FBis251)");
+ui_print("");
+ui_print("Mounting mount points");
+run_program("/sbin/mount", "/dev/block/stl9", "/system");
+run_program("/sbin/mount", "/dev/block/stl10", "/data");
+run_program("/sbin/mount", "/dev/block/stl11", "/cache");
+ui_print("");
+ui_print("DELETE GOES HERE");
+ui_print("");
+ui_print("Unmounting mount points");
+run_program("/sbin/umount", "/system");
+run_program("/sbin/umount", "/data");
+run_program("/sbin/umount", "/cache");
+ui_print("");
+ui_print("Bloatware deleted");

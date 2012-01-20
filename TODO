@@ -1,0 +1,10 @@
+Add the option for the user to add their own APK to the list
+
+#################################
+#############  DONE  ############
+#################################
+Create a warning system in case user is going to delete a useful file (keyboard etc) in a popup
+PHP file for zip generation
+Spiffy up the look of the site
+Cache zip files using md5 sum based on which choices user made
+Allow for clicking the APK name to select/deselect checkbox

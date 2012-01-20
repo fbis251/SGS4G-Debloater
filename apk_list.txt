@@ -1,0 +1,64 @@
+Adobe Flash Player,install_flash_player
+Allshare,Dlna
+Amazon Kindle,Kindle-OEM-2.0.5.103970165-20110202
+Amazon MP3,AmazonMp3
+Android Live Wallpapers,LiveWallpapers
+Aurora Live Wallpaper,Aurora
+Buddies Now,BuddiesNow
+Calculator,TouchWizCalculator
+Calendar,TouchWizCalendar
+Car Home,CarCradle
+Desk Home,DeskCradle
+DriveSmart System,DriveSmartHelper
+DriveSmart,DriveSmart
+Email,Email
+Facebook,FBAndroid
+Feeds and Updates,SamsungWidget_FeedAndUPdate
+Files,MyFiles
+Gallery,Gallery3D
+Gmail,Gmail
+Google Books,BooksPhone
+Google Maps,Maps
+Google Search,GoogleQuickSearchBox
+Google Street View,Street
+Google Talk,Talk2
+Home screen Tips,Protips
+Inception,MovieShortcut
+Layar,Layar-samsung
+Live Wallpaper Picker,LiveWallpapersPicker
+Luminescence Wallpaper,Luminescence
+Magic Smoke Wallapper,MagicSmokeWallpapers
+Manage Online Album,ManageOnlineAlbum
+Media Hub,MediaHub
+Memo,Memo
+Mini Diary,MiniDiary
+Music Player,MusicPlayer
+My Account(2),sihome-signed-aligned-tmo-android-8-prod-107357
+My Account,MyAccount-5.0.3002
+My Uploads,MediaUploader
+News & Weather,GenieWidget
+Pico Text To Speech Engine,PicoTts
+* Samsung Keypad,AxT9IME
+Slacker Radio,slackerradio
+SNSAccount (Facebook),SnsAccount
+Sound Player,SoundPlayer
+Swype Tips,SwypteTip-release
+Swype,Swype
+T-Mobile Contacts Backup,MobileBackup
+T-Mobile TV HD,com.mobitv.client.tmobiletvhd
+TalkBack,talkback
+* Task Manager,JobManager
+Telenav GPS Navigator,Telenav
+ThinkFree Office,thinkdroid
+* TouchWiz Launcher,TouchWiz30Launcher
+TouchWiz Wallpaper Chooser,TwWallpaperChooser
+Video Chat (Qik),qik-11.52-release-tmo
+Video Player,VideoPlayer
+* Visual Voicemail,vvm-signed
+Voice Dialer,VoiceDialer
+Voice Recorder,VoiceRecorder
+Voice Search,VoiceSearch
+Wifi Calling,WiFi-Calling
+Write and Go,WriteandGo
+Yahoo Finance Clock,SamsungWidget_StockClock
+Youtube,YouTube
