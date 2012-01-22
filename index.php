@@ -78,14 +78,14 @@ $list = file('apk_list.txt');
       </form>
     </div>
     <div id="footer">
-      Created by Fernando Barillas (FBis251)<br />
-      Page Design by <a href="http://goo.gl/Vu3k7">Bilal Ayub</a>
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
           <input type="hidden" name="cmd" value="_s-xclick">
           <input type="hidden" name="hosted_button_id" value="4DKZJMZ2ALJ7L">
           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form>
+      Page Design by <a href="http://goo.gl/Vu3k7">Bilal Ayub</a><br />
+      <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">SGS4G Debloater</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.fernandobarillas.com" property="cc:attributionName" rel="cc:attributionURL">Fernando Barillas (FBis251)</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
     </div>
     <script type="text/javascript" src="js/jquery-1.6.2.min.js"></script>
     <script type="text/javascript" src="js/main.js"></script>
