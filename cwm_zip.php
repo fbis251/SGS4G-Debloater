@@ -4,7 +4,7 @@ $zipFileName = 'debloater.zip';
 $zipFilePath = 'zip/';
 $scriptFile  = implode('',file('cwm/original-script'));
 $zipScript   = 'cwm/zip/updater-script';
-$list = file('apk_list.txt');
+$list        = file('apk_list.txt');
 
 if(@$_GET == null) {
   die("Nothing was selected. Please go to the previous page and select something.");
@@ -15,17 +15,18 @@ $requestSum  = md5(implode($_GET));
 $zipFileName = $zipFilePath . $requestSum . '/' . $zipFileName;
 
 /* Check to see if the file already exists */
-if(file_exists($zipFileName) == 10) {
+if(file_exists($zipFileName)) {
   /* If it does, download it */
   header('Location: ' . $zipFileName);
   die();
 } else {
+  /* If it doesn't add the new directory to cache it */
   mkdir($zipFilePath . $requestSum);
 }
 
 /* Load the main list of APK's */
 foreach($list as $line) {
-	$line = explode(',', trim($line));
+        $line = explode(',', trim($line));
   $name = $line[0];
   $file = $line[1];
   $apkMasterList[] = array($name, $file);
