@@ -47,7 +47,7 @@ Swype,Swype
 T-Mobile Contacts Backup,MobileBackup
 T-Mobile TV HD,com.mobitv.client.tmobiletvhd
 TalkBack,talkback
-* Task Manager,JobManager
+Task Manager,JobManager
 Telenav GPS Navigator,Telenav
 ThinkFree Office,thinkdroid
 * TouchWiz Launcher,TouchWiz30Launcher
